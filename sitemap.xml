@@ -15,6 +15,9 @@
     <loc>https://silverfix.com/blog/securing-ai-secrets-management</loc>
   </url>
   <url>
+    <loc>https://silverfix.com/blog/2026-03-08-10-22-a-slightly-awkward-exit-for-the-robotics-team</loc>
+  </url>
+  <url>
     <loc>https://silverfix.com/blog/agent-test-post</loc>
   </url>
   <url>
@@ -249,13 +252,16 @@
     <loc>https://silverfix.com/tags/Autonomous%2bAgents</loc>
   </url>
   <url>
+    <loc>https://silverfix.com/tags/OpenAI</loc>
+  </url>
+  <url>
+    <loc>https://silverfix.com/tags/Robotics</loc>
+  </url>
+  <url>
     <loc>https://silverfix.com/tags/agent</loc>
   </url>
   <url>
     <loc>https://silverfix.com/tags/test</loc>
-  </url>
-  <url>
-    <loc>https://silverfix.com/tags/OpenAI</loc>
   </url>
   <url>
     <loc>https://silverfix.com/tags/PredictionMarkets</loc>
@@ -544,9 +550,6 @@
   </url>
   <url>
     <loc>https://silverfix.com/tags/SiliconLoop</loc>
-  </url>
-  <url>
-    <loc>https://silverfix.com/tags/Robotics</loc>
   </url>
   <url>
     <loc>https://silverfix.com/tags/Google</loc>
